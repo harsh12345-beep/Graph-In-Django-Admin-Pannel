@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plucky-agency-346407",
+  "private_key_id": "78ad872daa6a7367416c3e3bd793bcdfd98a0569",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhjxAOsMvuwTGa\nQ2ov5jxoCZrx+FYZ2X6+hN2D+PU2hA/wwkSv03WXqpirWhrb4dNXTZfLdgEVo5Al\nP6Pi6Na1UK0z6F7J+tCfJUH3XJPNabGhzMa8BeNGr42Ar4v58vNoauKUcVggugGs\nOhqnzHUsl4DxjXa6VnEbJgm7A/oKFTphXkIHLi9adWY37QikkBifsr2F8krcK+qe\nCB1l5z/k9MBfMZiMkLhFsE6Nhxq7wJhGCluqwkHN0HdeSDJplFv+Z9wAn/lZd8uh\nIFfbKfFTbUhGPXUErsBd0452uNwbwkTspiQdV9A4nt5YcWTtdNR6YKoF/quEolJK\nsrC1m0KlAgMBAAECggEAIvonHIwUd6/sQ/Z3yTk7/UseBK9ElMoaIiui2SP6TIui\nmCxb7+ML7Wq2NX4pw5arifJ9mz6vkN42DFynypheMSwzS6UZS9txzff+WIA56ETf\nV46Uc9Q65/txpzaxr18aGUNX4vqHlr2ZZE53UzV8px9QTsTn2CHu9K2LnT1S4Qya\nlj56BikkDpuVQ7kQib8zakqUIWHw12tTmo7lJMI98YOafLRMLTmRbXoMxUOmSFk8\n76/qT9nLGIBh5q7dR6zMg7Lwt2FrhxQDwJfa421FM56G/00xoqwF6/v9Lu0/5UW0\nnWLUW8Yv6tUq3jnss2uNPCFWaI9D20XLkRNE3A1+GQKBgQD5k4nhVwHgFcf8gLhS\noOxtcVJ+yWTRoeldznr4uV7V0jMkPuViIXIEpfL4kvcE7hRd2LoE035Go9c/ylez\nGlcxC0mK7dh7IbsAbNtosi3zooDj2QCsrLrB9Hqz/MSQlGtsdzbCgGgnOWn4AMsf\nVPfkw1+pyZAbfBdDw6vTnNI32QKBgQDnXUXLnC/bH5Tf8ZNUraqA8afRdpEOtw2u\nj973zn+K2GigRLpYrSMHztU6ifWH0eEE9O2YJUhgzF4uY19nVXvsiP50FFTRVq0S\nuoKzXUzPWbwk5tmfpWotQI90c9wnpRlFd16slQ6NB3eCf4Fey7/rSHsW+QAGSxdo\nNQzMLHGNrQKBgDhbb6Q58It4f6tuKbFG83yXPWix85k+9aKgMLafrWGdUL0bktLA\n+K1CCAbHsQ4k8OZsPT0/wOEUuFOITpt8FDpX8Sh1IxBTApZK/pS6v5Onm3FYHEXh\nz15i5Z5lMsHvMf7RQMVVF6/b0CkXjMarejrnP1/oyyjZsas0sUVcwT+pAoGBAMNW\neKsjvzPeQi+hIqcHyUD8xpeO54HpA2AykCng6sYrWIqX/E0KQN1Cv7yg5fA6PyWU\nNVWThLxVT98Sf2YbQnm+YDdZQxNLfuylE9ykFUmrlbICRhMH8dErBPNpLqM6PU/t\nLL3BS3u+piRDytJibDMWCvamXGLz21tcDuYDUAwxAoGAVP+6/1vXQad0RtR2F3Z2\nTWPMk2DmHn7SFPh7kuQCj0Ad8Br6/fJkvYbhnY69VJVrl9793LOqf12Mnh6UNlLI\nEDgsSY1L3yHDaDtFWN68s3K7r7xaCiH4qxlMj2+4cn+8PqrtTvkAMOqQZHrzYngQ\nWG0L9bKMY0lQmWtQxegdm0M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hostelapk@plucky-agency-346407.iam.gserviceaccount.com",
+  "client_id": "104646095405305444118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hostelapk%40plucky-agency-346407.iam.gserviceaccount.com"
+}
